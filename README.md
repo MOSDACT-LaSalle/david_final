@@ -62,8 +62,9 @@ You can interact with every scene using
 * ```SPACEBAR: inverts colors, HOLD for strobe```
 
 
+
 ## SCREENSHOTS
--------------------------------------------------------------------------------------------------------------------------
+
 
 SCENE 1
 
@@ -80,8 +81,9 @@ SCENE 3 (autonomous grid + interaction)
 ![image](https://github.com/user-attachments/assets/c516b8d4-a4d6-495e-a6a6-5f746fdec5f7)
 
 
+
 ## CONTACT
--------------------------------------------------------------------------------------------------------------------------
+
 
 - discord: ras.mus
 
