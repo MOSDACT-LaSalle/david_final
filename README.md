@@ -23,7 +23,7 @@ DREAMACHINE MK2
 
 Inspired by Brion Gysin and Ian Sommerville's DREAMACHINE 
 
-DREAMACHINE MK2 attempts to encapsulate the essence and purpose of the original, adding extra elements and interactions, turning it into a semi-exploratory game. 
+DREAMACHINE MK2 attempts to encapsulate the essence and purpose of the original, adding extra elements and interactions, turning it into a semi-exploratory game and a live-performative A/V experience. 
 
 DREAMACHINE MK2 is divided in 3 scenes. 
 
