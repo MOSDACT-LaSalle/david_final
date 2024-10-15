@@ -35,6 +35,10 @@ DREAMACHINE MK2 is divided in 3 scenes.
 
 ## INSTRUCTIONS
 
+Change scenes with 
+
+```1``` ```2``` ```3```
+
 You can interact with every scene using
 
 
